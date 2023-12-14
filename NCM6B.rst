@@ -1,7 +1,7 @@
 AI Accelerator
-#############
+##############
 NCM6B
-******
+*****
 -  PMIC (rk806)
 -  eMMC
 -  LPDDR4X
@@ -221,7 +221,7 @@ WiFi5/BT
       [DEL] Device B8:C6:AA:F9:6F:DF MiTV-AESP0 2755
 
 WiFi6/BT
--------
+--------
 
 -  **Check WiFi**
 
