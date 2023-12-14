@@ -1,6 +1,7 @@
-
-IO-NCM6B Ports
-**************
+IO Boards
+#########
+IO-NCM6B
+********
 -  SD Card
 -  PWM Fan
 -  RTC
@@ -15,7 +16,7 @@ IO-NCM6B Ports
 -  USB 3.0
 
 2.5G ETH
-~~~~~~~~
+--------
 
 -  **Check ETH**
 
@@ -58,8 +59,8 @@ IO-NCM6B Ports
 
 -  M.2 M-Key (WiFi)
 
-M.2 B-Key (4G)
-~~~~~~~~~~~~~~
+M.2 B-Key(4G)
+-------------
 
 -  **Link peripheral**
 

@@ -1,13 +1,11 @@
-
-
-Welcome to 6TOPS OpenAIA Manual
-*******************************
+6TOPS OpenAIA Manual
+********************
 .. toctree::
    :maxdepth: 2
 
-   welcome
+   quick
    OpenAIA
+   NCM6B
    IO-NCM6B
-   IO-NCM6B2
-
-
+   deploy
+   model
