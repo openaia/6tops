@@ -30,7 +30,7 @@ jobs:
         pip install sphinx
         pip install myst_parser
         pip install sphinx_rtd_theme
-        python -m sphinx -T -E -b html -d _build/doctrees -D langauge=en . test
+        python -m sphinx -T -E -b html -d _build/doctrees -D langauge=en . 
        # if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Lint with flake8
       run: |
