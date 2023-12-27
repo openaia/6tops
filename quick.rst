@@ -2,7 +2,7 @@ Getting Started
 ---------------
 
 Introduction
-~~~~~~~~~~~
+~~~~~~~~~~~~
 
 Prerequisites
 ~~~~~~~~~~~~~

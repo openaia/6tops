@@ -8,7 +8,7 @@ U-Boot
 ~~~~~~
 
 Linux Kernel
-~~~~~~~~~~~
+~~~~~~~~~~~~
 
 Debos Recipe
 ~~~~~~~~~~~~
